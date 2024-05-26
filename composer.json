@@ -16,10 +16,11 @@
         }
     ],
     "require": {
-        "php": "^8.2.0",
-        "laravel-zero/framework": "^11.0.0"
+        "php": "^8.2.0"
     },
     "require-dev": {
+        "laravel-zero/framework": "^11.0.0",
+        "symfony/process": "^7.0",
         "laravel/pint": "^1.15.2",
         "mockery/mockery": "^1.6.11",
         "pestphp/pest": "^2.34.7"
@@ -46,5 +47,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
-    "bin": ["application"]
+    "bin": ["builds/vzero-cli"]
 }
