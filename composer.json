@@ -1,7 +1,6 @@
 {
     "name": "vzero/vzero-cli",
     "description": "The VZero Tooling CLI.",
-    "version": "0.1.0",
     "keywords": ["vzero", "wordpress tooling", "wordpress tooling cli", "tooling", "cli"],
     "homepage": "https://github.com/vzero/vzero-cli",
     "type": "project",
